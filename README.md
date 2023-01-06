@@ -21,8 +21,6 @@ I’m currently learning:
   <img align="center" alt="dv-jupter" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="dv-anaconda" height="80" width="90" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg">
   <img align="center" alt="tensorflow" height="90" width="90" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg">
-  <img align="center" alt="Ed-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Ed-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
 </div>
 
 #
